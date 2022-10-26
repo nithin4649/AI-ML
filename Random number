@@ -1,0 +1,5 @@
+import random
+
+print("Printing random number using random.random()")
+
+print(random.random())
